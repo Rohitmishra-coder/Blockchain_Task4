@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 contract HelloWorld {
-    string public message = "Hello, Codtech!";
+    string public message = "Hello world";
 
     function updateMessage(string memory _newMessage) public {
         message = _newMessage;

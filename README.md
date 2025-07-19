@@ -1,5 +1,4 @@
-# Author
-Rohit Mishra
+
 
 # Private Ethereum Blockchain with Hardhat
 
@@ -53,3 +52,5 @@ This project demonstrates how to create a **private Ethereum blockchain** using 
 - Deploy:  
   `npx hardhat run scripts/deploy.js --network localhost`
 ---
+# Author
+**Rohit Mishra**
